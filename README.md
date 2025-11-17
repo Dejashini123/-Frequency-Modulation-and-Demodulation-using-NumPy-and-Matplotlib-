@@ -95,7 +95,9 @@ plt.show()
 
 
 __Output:__
-<img width="1576" height="1199" alt="image" src="https://github.com/user-attachments/assets/ac5a4d6c-cb13-44fb-9037-10a645d00e33" />
+
+<img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/66471442-33aa-48f7-ab9c-9a36201c23f1" />
+
 
 
 __Result:__
